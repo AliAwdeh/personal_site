@@ -6,34 +6,44 @@ import Main from '../layouts/Main';
 const Index = () => (
   <Main
     description={
-      "Michael D'Angelo's personal website. New York based Stanford ICME graduate, "
-      + 'VP of Engineering at Smile Identity, co-founder of Arthena and Matroid, and YC Alumni.'
+    "Ali Awdeh's personal website. Lebanese inventor and developer with a passion for technology and innovation."
+      + 'Explore my projects, experiences, and the journey that led me to where I am today.'
+
     }
   >
     <article className="post" id="index">
       <header>
         <div className="title">
           <h2>
-            <Link to="/">About this site</Link>
+            <Link to="/">Inventor, Developer and Tech Enthusiast</Link>
           </h2>
           <p>
-            A beautiful, responsive, statically-generated, react application
-            written with modern Javascript.
+            Exploring the Intersection of Technology, Creativity, and Innovation.
           </p>
         </div>
       </header>
       <p>
         {' '}
-        Welcome to my website. Please feel free to read more{' '}
-        <Link to="/about">about me</Link>, or you can check out my{' '}
-        <Link to="/resume">resume</Link>, <Link to="/projects">projects</Link>,{' '}
-        view <Link to="/stats">site statistics</Link>, or{' '}
-        <Link to="/contact">contact</Link> me.
+        Hi there! You can read more about my{' '}
+        <Link to="/about">background</Link>, check out my{' '}
+        <Link to="/resume">resume</Link>, explore my  <Link to="/projects">projects</Link>,{' '}
+        view my <Link to="/stats">stats</Link>, or if you want you can {' '}
+        <Link to="/contact">Reach Out</Link> to me.
       </p>
+
       <p>
         {' '}
-        Source available{' '}
-        <a href="https://github.com/mldangelo/personal-site">here</a>.
+        This website is built on a GitHub
+        {' '}project that I discovered and customized to create a personal space online.
+        {' '}While I didn’t design the frontend from scratch, I saw potential in the project
+        {' '}and adapted it to suit my needs as a developer and inventor.
+        {' '}My goal was to have a platform where I could share my work,
+        {' '}experiences, and connect with others in a meaningful way.
+        {' '}This site reflects my journey and serves as a way for me to continually
+        {' '}grow and showcase what I’m passionate about.
+        {' '}
+        {' '}The link to the original project is {' '}
+        <a href="https://github.com/mldangelo/personal-site" rel="noreferrer" target="_blank">Here</a>.
       </p>
     </article>
   </Main>

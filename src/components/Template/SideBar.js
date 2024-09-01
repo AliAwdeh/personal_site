@@ -12,9 +12,9 @@ const SideBar = () => (
         <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
       </Link>
       <header>
-        <h2>Michael D&apos;Angelo</h2>
+        <h2>Ali I. Awdeh</h2>
         <p>
-          <a href="mailto:michael@mldangelo.com">michael@mldangelo.com</a>
+          <a href="mailto:Ali.I.Awdeh@gmail.com">Ali.I.Awdeh@gmail.com</a>
         </p>
       </header>
     </section>
@@ -22,15 +22,13 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>
-        Hi, I&apos;m Michael. I am a{' '}
-        <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC
-        Alumni, and the VP of Engineering at{' '}
-        <a href="https://smileidentity.com">Smile Identity</a>. Previously, I
-        was the co-founder and CTO of <a href="https://arthena.com">Arthena</a>,
-        co-founder of <a href="https://matroid.com">Matroid</a>, and worked at{' '}
-        <a href="https://planet.com">Planet</a> and{' '}
-        <a href="https://facebook.com">Facebook</a>.
+        Hi, I&apos;m Ali. I&apos;m a Lebanese inventor and tech enthusiast with a deep
+        passion for innovation. My journey has led me through exciting projects
+        in software development and blockchain. Along the way, I&apos;ve spoken at major
+        events and contributed to the tech community. I&apos;m always exploring new ideas
+        and pushing the boundaries of what&apos;s possible.
       </p>
+
       <ul className="actions">
         <li>
           {!window.location.pathname.includes('/resume') ? (
@@ -49,7 +47,7 @@ const SideBar = () => (
     <section id="footer">
       <ContactIcons />
       <p className="copyright">
-        &copy; Michael D&apos;Angelo <Link to="/">mldangelo.com</Link>.
+        &copy;2024 Ali I. Awdeh <Link to="/">AliAwdeh.com</Link>.
       </p>
     </section>
   </section>

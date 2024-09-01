@@ -11,20 +11,31 @@ const validateText = (text) => {
 
 const messages = [
   'hi',
+  'kifak',
   'hello',
-  'hola',
-  'you-can-email-me-at-literally-anything! Really',
-  'well, not anything. But most things',
-  'like-this',
-  'or-this',
-  'but not this :(  ',
+  'marhaba',
+  'you_can_send_me_anything_really',
+  'just dont put any spaces like this',
+  'and dont use special characters in an email format',
+  'like this:',
+  '(),:;<>@[]',
+  'these are not allowed',
+  'but you can with anything else',
+  'like.this',
+  'or.even.ike.this',
   'you.can.also.email.me.with.specific.topics.like',
-  'just-saying-hi',
-  'please-work-for-us',
-  'help',
-  'admin',
-  'or-I-really-like-your-website',
-  'thanks',
+  'join_our_team',
+  'come_work_for_us',
+  'i_really_like_Nicola_Tesla',
+  'Well_Me_Too',
+  'but_just_so_you_know',
+  'if_you_missed_it_in_the_main_page',
+  'the_front_end_is_not_mine',
+  'if_you_have_some_back_end_for_me',
+  'then_i_am_ready_for_it',
+  'i_want_to_see_some_creativity_with_this',
+  'have_fun_with_it',
+
 ];
 
 const useInterval = (callback, delay) => {
@@ -85,9 +96,9 @@ const EmailLink = ({ loopMessage }) => {
       onMouseEnter={() => setIsActive(false)}
       onMouseLeave={() => idx < messages.length && setIsActive(true)}
     >
-      <a href={validateText(message) ? `mailto:${message}@mldangelo.com` : ''}>
+      <a href={validateText(message) ? `mailto:${message}@aliawdeh.com` : ''}>
         <span>{message}</span>
-        <span>@mldangelo.com</span>
+        <span>@aliawdeh.com</span>
       </a>
     </div>
   );

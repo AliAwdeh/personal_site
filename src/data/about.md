@@ -1,90 +1,48 @@
 # Intro
 
-I am the VP of Engineering at Smile Identity, where I work on tools that have helped over 150 million people in Africa gain access to financial services. Before Smile, I was the co-founder & CTO of [Arthena](https://arthena.com) and a co-founder of [Matroid](https://matroid.com). In my spare time, I enjoy investing in people and ideas through a [small venture fund](https://skepticalinvestments.biz). I am particularly interested in projects with high social impact. If you think I can be helpful to you or your cause and would like to meet, please feel free to get in touch.
+I am currently taking a break to focus on my studies, but I'm eager to return to the field. I believe in giving my best in everything I do—showing up, putting in the effort, and making the most out of every opportunity. This philosophy has guided me throughout my journey in technology and invention. I also strongly believe that no one possesses absolute knowledge; everyone is missing something, and even the best of us still have much to learn. This humility keeps me grounded and open to new ideas, and it drives my passion for continuous improvement.
 
-# Some history
+# Some History
 
-- My parents put a computer in my bedroom in 1993 when I was 3. It was an old Tandy that ran MS-DOS. My favorite games were Street Rod 2, Wolfenstein 3D, and Tom and Jerry. It had a mechanical keyboard and a turbo button. To this day, I still don't know what pressing the turbo button really did.
-- We subscribed to AOL in 1995. I still remember installing it from a floppy disk onto our brand new Packard Bell. It took years for me to send my first email.
-- In the summer of 1996, my uncle purchased [MegaRace](https://en.wikipedia.org/wiki/MegaRace) from [Media Play](https://en.wikipedia.org/wiki/Media_Play) and installed it on my mom's work computer. I might have endangered her business by using her computer too much.
-- At 7, I discovered the mini-games hidden in Microsoft Office. I also beat Minesweeper on expert for the first time.
-- At 8, my parents bought me a Sony Mavica MVC-FD71 digital camera after I stole their SLR one too many times. It could fit 10 images to a floppy disk at a 0.3MP resolution. I still have it and it still works. I've been taking photographs ever since, now with a Nikon D750, D800, and occasionally with a Mamiya 6II.
-- At 10, I built my first website with Microsoft FrontPage on our Pentium III [Gateway](https://en.wikipedia.org/wiki/Gateway,_Inc.). My website was terrible.
-- I was 11 when I built my first [Tesla Coil](https://en.wikipedia.org/wiki/Tesla_coil) (without the permission of my parents). Over the next few years, I built several more including one of the first audio modulated coils and one of the first DRSSTCs.
-- When I was 12, I set the all-time high record at my local laser tag facility by reverse engineering the charging station and weapon protocols with a photo-resistor, micro-cassette recorder, and a lot of patience. I was unstoppable.
-- At 13, I went to space camp and fell in love. I went back two more times and promised myself that I'd work in space. I've since helped build three generations of satellites and have contributed to two more.
-- At 14, I was almost expelled for finding a backdoor into my high school's file server and telling everyone but the faculty members about it. Later that year, I figured out how to turn off the internet firewall by editing system registry keys. I anonymously shared my work months later.
-- At 16, I participated in a foreign exchange program in Dortmund, Germany. Since then, I've gone back almost every year.
-- 14 - 17, I played a lot of video games. My favorites included Counter-Strike Source, Command and Conquer 3, Halo 2, and Age of Empires II.
-- At 18, in the summer before college, my friends and I started playing [Muggle Quidditch](<https://en.wikipedia.org/wiki/Quidditch_(sport)>). We went on to start over 8 teams in the [International Quidditch Association](https://en.wikipedia.org/wiki/International_Quidditch_Association), including the [Buffalo Quidditch Society](https://www.facebook.com/buffaloquidditch/). At our height, we were ranked third in the IQA. Although I don't play anymore, you can still see pictures of me holding a broom while wearing a chess camp t-shirt on Facebook.
-- At 19, I took my first graduate course and published my first academic paper.
-- At 20, I co-authored a grant to build a satellite and managed a 60+ person team for the next two years. You can read more about that [here](https://ubnl.space/glados/).
+- My journey into technology began when my dad bought a desktop computer when I was just 4 years old. I was immediately captivated by it. The pivotal moment came when our computer was infected with ransomware. This incident sparked my curiosity—I couldn’t stop wondering how it worked, how someone could create something like that. It wasn’t just the technical aspects that intrigued me, but the idea that a person could have such a profound impact through technology. This experience set the course for my future interests and career.
+- Another significant influence was Facebook. When I first encountered it, I was amazed by how it allowed people to connect and interact across the world. The idea of building something that could facilitate such interactions and have a global impact fascinated me. These early experiences with technology fueled my passion for understanding and creating, and they laid the foundation for my later work in invention and development.
+- My early inventions, coupled with a deep interest in electronics and servers, further solidified my commitment to this field. I spent countless hours tinkering with electronics, experimenting with servers, and developing small projects that gradually became more complex. These experiences were not just educational but deeply rewarding, as they allowed me to see the tangible results of my efforts.
+- As I grew older, my interests and skills evolved, but the passion that started in those early years remained constant. Whether it was building my first website or developing more sophisticated inventions, the drive to innovate and create has always been at the core of who I am.
 
-Ask me in person for other stories that I'm afraid to share with the internet.
+# Skills & Experience
 
-# I like
+- My inventions, exhibitions, and awards are particularly important to me. They reflect the creativity and hard work I’ve invested in my projects. Each project has been a learning experience, pushing me to develop new skills and explore new technologies. The recognition I’ve received for my work has been gratifying, but what’s more important to me is the process of creation itself. I’m constantly striving to improve and to find new ways to apply my knowledge in meaningful ways.
+- Through my internships and work experiences, I’ve had the privilege of meeting new people and learning to communicate and collaborate with diverse teams. These experiences have been invaluable, not only in terms of the technical skills I’ve gained but also in terms of personal growth. Working with others has taught me the importance of teamwork, flexibility, and empathy. It has also given me new perspectives on how to use technologies effectively and for what purposes.
+- One of the most rewarding aspects of my career so far has been the opportunity to work on projects that have a real impact. Whether it’s through developing a new invention, optimizing a process, or simply solving a problem, I find great satisfaction in knowing that my work makes a difference. This is what drives me to continue learning and pushing the boundaries of what I can achieve.
 
-- Running
-- Skiing
-- Sailing and the sea
-- Space
-- Summer
-- [Books](https://www.goodreads.com/mdangelo)
-- Colored pencils ([Faber-Castell Polychromos](https://www.faber-castell.com/products/art-and-graphic/polychromos))
-- Podcasts ([The Daily](https://www.nytimes.com/column/the-daily), [The Ezra Klein Show](https://www.nytimes.com/column/ezra-klein-podcast), [Planet Money](https://www.npr.org/sections/money/), [The Indicator](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money), [This American Life](https://www.thisamericanlife.org/), [99% Invisible](https://99percentinvisible.org/episodes/), [The Economist](http://radio.economist.com/), [Radiolab](https://www.wnycstudios.org/shows/radiolab), [Hidden Brain](https://www.npr.org/series/423302056/hidden-brain), [Inquiring Minds](https://inquiring.show), and others)
-- [Good design](/)
-- [Photography](https://instagram.com/dangelosaurus)
+# Hobbies and Interests
+
+- Outside of my professional work, I enjoy training my Belgian Malinois, Zeus. He’s more than just a pet—training him has taught me a lot about patience, discipline, and the importance of consistency. These are qualities that I apply to my work as well. Just as training a dog requires a deep understanding of behavior and clear communication, so too does working with technology.
+- In addition to my love for animals, I have a strong passion for electronics, electricity, and maintaining my servers. There’s something incredibly satisfying about building and maintaining systems that work reliably and efficiently. I’ve spent many hours working on my home server setup, ensuring that everything runs smoothly and securely.
+- My interest in technology also extends to entertainment. I enjoy watching TV shows and anime, which has influenced my approach to technology in unexpected ways. Inspired by my love for media, I created a home-hosted media playback service using Jellyfin. This project allowed me to combine my technical skills with my personal interests, creating something that I use and enjoy daily.
+- These hobbies and interests not only provide a balance to my work life but also inspire new ideas and projects. Whether I’m working on a server, training Zeus, or simply relaxing with a good show, I’m always looking for ways to connect my passions with my work.
 
 # Travel / Geography
 
-- I am originally from Buffalo, New York. I have since lived in Palo Alto, Mountain View, San Francisco, Seattle, and New York City.
-- I've been to approximately 50 countries, some of which I have forgotten, many of which I would like to revisit.
-- In 2016, I visited Canada, Ethiopia, Austria, Germany, Belgium, Ireland, Northern Ireland, Italy, Romania, Sweden, Norway, Svalbard, Panama, Costa Rica, Uganda, Japan, and the UAE, mostly in that order.
-- In 2017, I visited Canada, Japan, Denmark, Germany, Sweden, Estonia, Russia, the Netherlands, Belgium, the U.K., Spain, Iceland, France, Switzerland, Ethiopia, and Luxembourg.
-- In 2018, I visited Canada, France, Italy, Israel, and the U.K.
-- In 2019, I visited Canada, England, France, and Switzerland.
-- In 2020, I traveled barely 20 blocks. I stayed in New York and remodeled an apartment.
-- In 2021, I continued remodeling an apartment.
-- In 2022, I switched jobs and visited the UK, France, Greece, Belgium, Luxembourg, Germany, and Kenya.
-- In 2023, I visited France, the UK, Ireland, and Rwanda.
-- I am an Oregon Trail II enthusiast.
+- Travel has been another important aspect of my life. I’ve traveled to Turkey multiple times and have also visited France, Italy, Switzerland, and Kuwait. Each of these experiences has broadened my perspective and influenced my approach to life and work. Traveling allows me to see the world through different lenses, understand different cultures, and appreciate the diversity of human experience.
+- In Turkey, I was particularly struck by the blend of tradition and modernity. The country’s rich history and vibrant culture have left a lasting impression on me, and I’ve returned multiple times to explore more. My visits to Europe, particularly France and Italy, have deepened my appreciation for art, design, and the importance of aesthetics in technology.
+- Switzerland’s precision and attention to detail resonate with my own approach to work, where I strive for excellence and perfection. Kuwait, with its rapid development and innovation in various fields, has inspired me to think big and pursue ambitious goals.
+- These travels have not only enriched my life but also influenced my work, providing new ideas and inspiration for future projects.
 
-# Fun facts
+# Fun Facts
 
-- I have a list of thousands of ideas, like creating matching bow ties for cats and humans.
-- I almost always have a sketchbook with me and a [01 Sakura Pigma Micron Pen](https://www.sakuraofamerica.com/product/pigma-micron/).
-- I can't locate every country on a map.
-- I operate a [small angel fund](http://skepticalinvestments.biz/) with terrible returns.
-- I break about 30 traffic laws on a skateboard or [bicycle](https://www.citibikenyc.com/) every single day.
-- I stack-rank coffee shops, restaurants, and every dog I see in New York.
-- I added this page because many people complained that my site was just my resume.
+- I love sitting by the beach and enjoy the vibrant life of cities like Beirut. The contrast between the calm of the sea and the hustle of the city reflects my own balance between work and relaxation. The beach is a place where I can clear my mind, think creatively, and find peace.
+- I often find myself talking to my dog, Zeus. He’s a great listener and has been a constant companion during both good times and challenging moments. My daily routine includes drinking coffee in the morning, working on my car, and going out on Wednesdays and Saturdays. These routines keep me grounded and provide structure to my day.
 
-# I dream of
+# Dreams and Aspirations
 
-- Inspiring and feeling inspired.
-- Enabling a brighter future for everyone, regardless of political or socioeconomic status.
-- Treating every individual with genuine kindness and respect.
-- Staying curious.
-- Continually improving.
-- You not checking the commit history for earlier drafts of this file.
+- Professionally, I aim to be among the best—equipped with the knowledge to develop top-notch software, manage projects perfectly, and build a successful career. I’m driven by a desire to excel and to create work that not only meets but exceeds expectations.
+- Personally, I aspire to build a strong family, achieve financial stability, and explore the world, leaving no place in Lebanon unchecked. I believe that a fulfilling life is one that balances personal and professional success, and I’m committed to achieving that balance.
 
-# Websites from people I admire
+# Inspirational Figures or Mentors
 
-- [Alex Peysakhovich](http://alexpeys.github.io/)
-- [Chris Lengerich](http://www.chrislengerich.com/)
-- [Chris Saad](https://www.chrissaad.com/)
-- [Duncan Tomlin](http://duncantomlin.com/)
-- [Ed Kearney](https://edkearney.com/)
-- [Hawley Moore](http://hawleymoore.com/)
-- [Holman Gao](https://golmansax.com/)
-- [Ian Webster](http://ianww.com/)
-- [Johanna Flato](https://www.johannaflato.com/)
-- [Judy Mou](http://www.judymou.com/)
-- [Judy Suh](https://www.judysuh.com/)
-- [Kristina Monakhova](https://kristinamonakhova.com/)
-- [Noah Trueblood](http://notrueblood.com/)
-- [Ruoxi Wang](http://ruoxiw.com/)
-- [Tom Sachs](https://www.tomsachs.org/)
-- [Will Holley](https://willholley.com/)
+- I’m inspired by figures like Nikola Tesla, Hasan Kamel Al Sabbah, Albert Einstein, Mark Zuckerberg, and Bill Gates. These individuals have shaped the world through their innovative thinking and relentless pursuit of their visions. While the last three names are partly in jest, I also admire creators like Aoyama Gosho, Eiichiro Oda, and others in the creative field. Their work in storytelling and creativity has influenced my own approach to innovation and problem-solving. I’ll add more names later as I continue to be inspired by new people.
 
-If we are friends and you feel like you belong on this list, you're probably right. Submit a PR, or ask me and I'll add you.
+# How I See My Work Contributing to the World
+
+- My inventions are driven by a desire to make the world a better place—expanding possibilities and adding a touch of poetry to the everyday. I believe that technology should not only solve problems but also inspire and enrich our lives. My goal is to create work that has a positive impact, whether through improving existing systems, creating new opportunities, or simply bringing a bit of beauty into the world.

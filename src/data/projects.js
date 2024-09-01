@@ -1,47 +1,63 @@
-// TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    title: 'M-GUN',
+    subtitle: 'Advanced Coil Gun with High Accuracy',
+    image: '/images/projects/mgun.jpeg',
+    date: '2017-02-02',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'The M-GUN is an innovative coil gun designed with precision and efficiency in mind. '
+      + 'Utilizing advanced physics calculations, it achieves fast projectile velocity with high accuracy. '
+      + 'This project has been recognized for its unique design and engineering, leading to a granted patent.',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
+    title: 'SWC (Smart Wind Controller)',
+    subtitle: 'Innovative Renewable Energy Solution',
+    image: '/images/projects/swc.jpg',
+    date: '2028-11-11',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'The SWC is a groundbreaking device that prolongs the life of wind turbines by up to 5 times. '
+      + 'It ensures the maintenance of motor brushes, prevents thermal shock, and maximizes the power harvested by wind turbines. '
+      + 'This innovation has earned numerous awards and a patent for its significant impact on renewable energy technologies.',
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
+    title: 'Garage Audi Management System',
+    subtitle: 'Custom Software Solution for Automotive Service',
+    image: '/images/projects/garageaudi.png',
+    date: '2024-06-15',
     desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+      'Developed a comprehensive management system tailored for my father’s German Cars Mechanic shop. '
+      + 'This system streamlines operations, including inventory management, customer tracking, and service scheduling, '
+      + 'improving overall efficiency and service quality.',
   },
   {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
+    title: 'The Witness Projects',
+    subtitle: 'Revolutionizing Blockchain and AI Integration',
+    image: '/images/projects/twp.png',
+    date: '2022-01-01',
     desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+      'The Witness Projects aim to innovate the way we interact with the web by integrating blockchain and AI technologies. '
+      + 'Key initiatives under this project include the YouOwn decentralized social media platform and the Witnessed Contract system for secure, immutable authentication. '
+      + 'These projects have earned prestigious awards, including gold medals at the Salon International des Inventions de Genève and IIFME in Kuwait, as well as a silver medal at iENA in Germany.',
+  },
+  {
+    title: 'YouOwn Platform',
+    subtitle: 'Decentralized Social Media and Content Sharing Platform',
+    image: '/images/projects/youown.png',
+    date: '2022-04-04',
+    desc:
+      'YouOwn is a groundbreaking decentralized platform that allows content creators to retain ownership and control of their work through NFT certificates. '
+      + 'This platform empowers creators and users alike, enabling secure content transactions, voting on platform issues, and even monetization through DeFi protocols. '
+      + 'The project is a key component of The Witness Projects and is currently in the MVP development phase.',
+  },
+  {
+    title: 'Witnessed Contract',
+    subtitle: 'Blockchain-Based Authentication System',
+    image: '/images/projects/witnesscontract.webp',
+    date: '2022-12-12',
+    desc:
+      'The Witnessed Contract project revolutionizes the way companies and entities authenticate transactions and verify ownership of assets. '
+      + 'By leveraging blockchain technology, it provides a secure, immutable system for proving the authenticity of various certificates, documents, and assets, '
+      + 'ensuring transparency and preventing fraud in industries such as real estate, insurance, and software licensing.',
   },
 ];
 
