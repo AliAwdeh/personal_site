@@ -8,12 +8,14 @@ const About = () => {
   const [markdown, setMarkdown] = useState('');
 
   useEffect(() => {
+    // Load markdown file once when component mounts
     import('../data/about.md').then((res) => {
       fetch(res.default)
         .then((r) => r.text())
-        .then(setMarkdown);
+        .then(setMarkdown)
+        .catch((error) => console.error('Error loading markdown:', error));
     });
-  });
+  }, []); // <-- This empty array ensures it only runs once
 
   const count = markdown
     .split(/\s+/)
