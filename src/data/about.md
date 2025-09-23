@@ -17,7 +17,7 @@ I am currently taking a break to focus on my studies, but I'm eager to return to
 
 # Hobbies and Interests
 
-- Outside of my professional work, I enjoy spending time with my Belgian Malinois, Zeus. Training and caring for him has taught me a lot about patience, discipline, and consistency. Watching him grow and develop has been incredibly rewarding, and it has given me a deeper appreciation for commitment and growth over time.
+- Outside of my professional work, I spend a lot of time with my Belgian Malinois, Zeus. Working with him has sharpened my patience, discipline, and consistency. Watching him grow and develop has been incredibly rewarding, and it’s given me a deeper appreciation for dedication and progress over time.
 - In addition to my love for animals, I have a strong passion for electronics, electricity, and maintaining my servers. There’s something incredibly satisfying about building and maintaining systems that work reliably and efficiently. I’ve spent many hours working on my home server setup, ensuring that everything runs smoothly and securely.
 - My interest in technology also extends to entertainment. I enjoy watching TV shows and anime, which has influenced my approach to technology in unexpected ways. Inspired by my love for media, I created a home-hosted media playback service using Jellyfin. This project allowed me to combine my technical skills with my personal interests, creating something that I use and enjoy daily.
 - These hobbies and interests not only provide a balance to my work life but also inspire new ideas and projects. Whether I’m working on a server, spending time with Zeus, or simply relaxing with a good show, I’m always looking for ways to connect my passions with my work.
@@ -41,7 +41,7 @@ I am currently taking a break to focus on my studies, but I'm eager to return to
 
 # Inspirational Figures or Mentors
 
-- I’m inspired by figures like Nikola Tesla, Hasan Kamel Al Sabbah, Albert Einstein, and Mark Zuckerberg. These individuals have shaped the world through their innovative thinking and relentless pursuit of their visions. While the last three names are partly in jest, I also admire creators like Aoyama Gosho, Eiichiro Oda, and others in the creative field. Their work in storytelling and creativity has influenced my own approach to innovation and problem-solving. I’ll add more names later as I continue to be inspired by new people.
+- I’m inspired by figures like Nikola Tesla, Hasan Kamel Al Sabbah, Albert Einstein, Mark Zuckerberg, and Bill Gates. These individuals have shaped the world through their innovative thinking and relentless pursuit of their visions. While the last three names are partly in jest, I also admire creators like Aoyama Gosho, Eiichiro Oda, and others in the creative field. Their work in storytelling and creativity has influenced my own approach to innovation and problem-solving. I’ll add more names later as I continue to be inspired by new people.
 
 # How I See My Work Contributing to the World
 
